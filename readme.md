@@ -1,12 +1,12 @@
 This is a port of the Monokai theme from Sublime Text 2 to PHPStorm. It looks a bit like this:
 
-![Monokai_Sublime screenshot](screenshot.png)
+![Monokai_Sublime screenshot](https://github.com/edvanbeinum/phpstorm-monokai/raw/master/screenshot.png)
 
 The main languages should be covered but things like HAML and SASS probably don't have the right colours, yet.
 
 # Installation
 
-Taking my cue from Cameron Eagans' [port of the Solarized theme](https://github.com/cweagans/phpstorm-solarized) for PHP Storm, I'm not going to faff about with .jar files just to distribute a singel XML file. So:
+Taking my cue from Cameron Eagans' [port of the Solarized theme](https://github.com/cweagans/phpstorm-solarized) for PHP Storm, I'm not going to faff about with .jar files just to distribute a single XML file. So:
 
 Go to Preferences -> Editor -> Colors and Fonts. Create a new color
 scheme called "Monokai Sublime".
